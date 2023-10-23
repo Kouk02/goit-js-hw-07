@@ -19,9 +19,4 @@ const lightbox = new SimpleLightbox('.gallery a', {
     captionDelay: 250, 
 });
 
-gallery.addEventListener('click', (event) => {
-    event.preventDefault(); 
-    if (event.target.nodeName === 'IMG') { 
-        lightbox.open();
-    }
-});
+

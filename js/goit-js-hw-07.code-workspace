@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../../../../Робочий стіл/src"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "goit-js-hw-07"
+  }
+}
